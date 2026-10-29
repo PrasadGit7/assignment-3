@@ -8,3 +8,5 @@ print("Automatic Jenkins build test!")
 print("im pp")
 
 print("hola im p")
+
+print("SCM polling test successful!")
